@@ -29,7 +29,7 @@ callback 127.0.0.1:8080
     * Has the persistence ability (copies itself to a hidden& archived folder and uses a registry key see 
  ```installer/installer_windows.go```) 
 
-## Dependices
+## Dependencies
 * [Go](https://golang.org/) 1.16+
 * GNU make
 * [goversioninfo](https://github.com/josephspurrier/goversioninfo) (needed to add the windows resource information to the binary)
